@@ -25,6 +25,7 @@ Serverless isn't right for all types of workloads but can provide great benefits
 - Management
   - Promotes consistency through Infrastructure as Code
 - Cost
+  - Conserves compute resoureces
   - No upfront cost (cloud-only)
 
 ## Components of the Demo
